@@ -1,6 +1,8 @@
 # Investigate-Movies-Dataset-Project
 
 about the data:
+
+
 Introduction:
 Data that I'm going to Investigate is about movies that involve (name of the movie, actors, directors, budgets, rating, revenue ...Features). the investigation is going to cover the following questions:
 
